@@ -1,1 +1,2 @@
-# Madhav-store
+# Power BI Dashboard
+This is Madhav Store DashBoard
